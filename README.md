@@ -33,4 +33,5 @@
 
 <hr></hr>
 
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=okihaito&show_icons=true&theme=radical" style="max-width:100%;" align="center">
