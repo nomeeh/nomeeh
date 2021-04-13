@@ -28,7 +28,7 @@
   <p>Altri in arrivo...</p>
 </details>
 
- <img align="center" src="https://lh5.googleusercontent.com/CvNM7d7CBjm8Npz6XZQr1BVpHe7ZMq7HLN3tJbabc4gdpDJye7ZSs_5u-IWIMe1vCz-IF5hvOckLgD9blo_J=w1879-h939">
+ <img align="right" src="https://lh5.googleusercontent.com/CvNM7d7CBjm8Npz6XZQr1BVpHe7ZMq7HLN3tJbabc4gdpDJye7ZSs_5u-IWIMe1vCz-IF5hvOckLgD9blo_J=w1879-h939">
 
 <hr></hr>
 
