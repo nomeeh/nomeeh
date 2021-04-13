@@ -14,7 +14,7 @@
   <p>Salve. 👋</p>
   <p>Programmo quando non ho niente da fare. Mi piace creare edit su Mugen e fare piccoli programmini su C++. 💕</p>
   <p>Ehm... si tutto qua non so fare altro per ora. 🌱</p>
-<br>
+  <p>Discord: 熄癈人ٴٴ]#0990</p>
 <br>
 <hr></hr>
 
@@ -28,7 +28,6 @@
   <p>Altri in arrivo...</p>
 </details>
 
-<p align="right">
  <img align="center" src="https://lh5.googleusercontent.com/CvNM7d7CBjm8Npz6XZQr1BVpHe7ZMq7HLN3tJbabc4gdpDJye7ZSs_5u-IWIMe1vCz-IF5hvOckLgD9blo_J=w1879-h939">
 
 <hr></hr>
