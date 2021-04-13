@@ -27,5 +27,6 @@
 </details>
 
 <hr></hr>
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=okihaito)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=okihaito&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
