@@ -1,7 +1,7 @@
 [![Header](https://lh6.googleusercontent.com/BcTSq6LJrq234H_1rE4B9etOCiy41nVz48gRuNHahjOAK72Ab1j4i9Eeme6pIxVYxlyHO2oxHGvEpEEwPcZ_=w1879-h939-rw "Header")](https://github.com/okihaito)
 
 <h1></h1>
-  <p align="left">
+  <p align="center">
 <a href="https://www.youtube.com/channel/UCvpCMNheDqnMlh2jDHI6lPw" rel="nofollow"><img height="30" src="https://www.freeiconspng.com/uploads/hd-youtube-logo-png-transparent-background-20.png" style="max-width:100%;"></a>
   &nbsp;&nbsp;
 <a href="https://steamcommunity.com/profiles/76561198965646963" rel="nofollow"><img height="30" src="https://www.isnotdown.it/assets/pics/steam.png" style="max-width:100%;"></a>
@@ -14,9 +14,9 @@
   <p>Salve. 👋</p>
   <p>Programmo quando non ho niente da fare. Mi piace creare edit su Mugen e fare piccoli programmini su C++. 💕</p>
   <p>Ehm... si tutto qua non so fare altro per ora. 🌱</p>
-<></>
-<></>
-<></>
+<p></p>
+<p></p>
+<p></p>
 <hr></hr>
 
 ### Le mie topics/repo preferite:
