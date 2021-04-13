@@ -28,10 +28,10 @@
 
 <p align="left">
 
-![](https://drive.google.com/uc?export=download&id=1bAdwGMMGHEZLkSQaCizoybi38n62fROp)
+![](https://lh5.googleusercontent.com/CvNM7d7CBjm8Npz6XZQr1BVpHe7ZMq7HLN3tJbabc4gdpDJye7ZSs_5u-IWIMe1vCz-IF5hvOckLgD9blo_J=w1879-h939)
 
 <hr></hr>
 
 <p align="center">
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=okihaito&show_icons=true&onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=okihaito&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
