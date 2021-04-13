@@ -34,4 +34,4 @@
 
 <p align="center">
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=okihaito&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=okihaito&show_icons=true&onedark)](https://github.com/anuraghazra/github-readme-stats)
