@@ -17,6 +17,6 @@
 ### Contents:
 
 <details>
-  <summary>Le mie repo preferite:</summary>
-  <p>wip.</p>
+  <summary>Le mie topics/repo preferite:</summary>
+  <p><a href="https://github.com/topics/betterdiscord-theme" rel="nofollow">Temi Discord</a></p>
 </details>
