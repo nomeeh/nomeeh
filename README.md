@@ -9,4 +9,4 @@ okihaito/okihaito is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Header](https://raw.githubusercontent.com/okihaito/okihaito/channels4_banner.jpg "Header")](https://github.com/okihaito)
+[![Header](https://drive.google.com/uc?export=download&id=10lAYVV6Rm92DUlrgjVF14Hf34GffRKZI "Header")](https://github.com/okihaito)
