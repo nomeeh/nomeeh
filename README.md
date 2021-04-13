@@ -14,7 +14,7 @@
   <p>Salve. 👋</p>
   <p>Programmo quando non ho niente da fare. Mi piace creare edit su Mugen e fare piccoli programmini su C++. 💕</p>
   <p>Ehm... si tutto qua non so fare altro per ora. 🌱</p>
-  <p>Discord: 熄癈人ٴٴ]#0990</p>
+  <img width="30" align="left" src="  https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" height="30"> <p>Discord: 熄癈人ٴٴ]#0990</p>
 <br>
 <hr></hr>
 
