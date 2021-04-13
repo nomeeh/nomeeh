@@ -1,7 +1,8 @@
 [![Header](https://lh6.googleusercontent.com/BcTSq6LJrq234H_1rE4B9etOCiy41nVz48gRuNHahjOAK72Ab1j4i9Eeme6pIxVYxlyHO2oxHGvEpEEwPcZ_=w1879-h939-rw "Header")](https://github.com/okihaito)
 
 <h1></h1>
-<p align="center">
+  <p align="left">
+  <img width="250" align="left" src="https://github.com/WaylonWalker/WaylonWalker/raw/main/icon/hacktoberfest.png?raw=true" style="max-width:100%;">
 <a href="https://www.youtube.com/channel/UCvpCMNheDqnMlh2jDHI6lPw" rel="nofollow"><img height="30" src="https://www.freeiconspng.com/uploads/hd-youtube-logo-png-transparent-background-20.png" style="max-width:100%;"></a>
   &nbsp;&nbsp;
 <a href="https://steamcommunity.com/profiles/76561198965646963" rel="nofollow"><img height="30" src="https://www.isnotdown.it/assets/pics/steam.png" style="max-width:100%;"></a>
@@ -26,7 +27,7 @@
   <p>Altri in arrivo...</p>
 </details>
 
-<p align="left">
+<p align="right">
 
 ![](https://lh5.googleusercontent.com/CvNM7d7CBjm8Npz6XZQr1BVpHe7ZMq7HLN3tJbabc4gdpDJye7ZSs_5u-IWIMe1vCz-IF5hvOckLgD9blo_J=w1879-h939)
 
