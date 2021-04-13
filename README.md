@@ -33,5 +33,16 @@
 <hr></hr>
 
 <p align="center">
+    &nbsp;&nbsp;
+    &nbsp;&nbsp;
+    &nbsp;&nbsp;
+    &nbsp;&nbsp;
+    &nbsp;&nbsp;
+    &nbsp;&nbsp;
+    &nbsp;&nbsp;
+    &nbsp;&nbsp;
+    &nbsp;&nbsp;
+    &nbsp;&nbsp;
+    &nbsp;&nbsp;
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=okihaito&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=okihaito&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
