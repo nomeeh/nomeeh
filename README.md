@@ -10,7 +10,7 @@
   &nbsp;&nbsp;
 <a href="https://open.spotify.com/user/dhonwgff9zdavjl6lk3v3atl0?si=bf8f29edf28e4a0d" rel="nofollow"><img height="30" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-photo-of-logo-16.png" style="max-width:100%;"></a>
 <p align="right">
-  <img width="150" align="left" src="https://moriyashrine.org/uploads/monthly_2020_02/large.0212C938-13C1-48C7-83D8-960C58F6B072.gif.fe48803f3a17ea24272566b09bb839ce.gif" height="150">
+  <img width="130" align="left" src="https://moriyashrine.org/uploads/monthly_2020_02/large.0212C938-13C1-48C7-83D8-960C58F6B072.gif.fe48803f3a17ea24272566b09bb839ce.gif" height="130">
   <p>Salve. 👋</p>
   <p>Programmo quando non ho niente da fare. Mi piace creare edit su Mugen e fare piccoli programmini su C++. 💕</p>
   <p>Ehm... si tutto qua non so fare altro per ora. 🌱</p>
