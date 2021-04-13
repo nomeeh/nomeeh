@@ -28,10 +28,10 @@
 
 <p align="left">
 
-<img src="https://drive.google.com/uc?export=download&id=1bAdwGMMGHEZLkSQaCizoybi38n62fROp" alt="Italian Trulli">
+![](https://drive.google.com/uc?export=download&id=1bAdwGMMGHEZLkSQaCizoybi38n62fROp)
 
 <hr></hr>
 
 <p align="center">
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=okihaito&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=okihaito&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
