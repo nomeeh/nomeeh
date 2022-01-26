@@ -34,7 +34,7 @@
 ### 📺 Top YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [【1 hour of low audio quality night of nights】](https://www.youtube.com/watch?v=SIgChyyNyYg
+- [【1 hour of low audio quality night of nights】](https://www.youtube.com/watch?v=SIgChyyNyYg)
 - [MUGEN ~ Infinite SoulAbyss vs. 40 Cheap Characters (all 12p)](https://www.youtube.com/watch?v=0kXwByJbjHY)
 - [MUGEN ~ RedDevil Release!](https://www.youtube.com/watch?v=7s_4-dA1h1k)
 - [MUGEN Music - Infinite SoulAbyss's 3rd Theme | Remastered/Original Song](https://www.youtube.com/watch?v=oqHKPRcVf5s)
