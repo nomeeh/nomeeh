@@ -43,10 +43,12 @@
 
 ➡️ [more videos...](https://youtube.com/mhzmugen)
 
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![okihaito's GitHub stats](https://github-readme-stats.vercel.app/api?username=okihaito)]
+  ![okihaito's GitHub stats](https://github-readme-stats.vercel.app/api?username=okihaito)
 
 </details>
 
