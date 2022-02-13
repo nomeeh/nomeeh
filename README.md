@@ -1,7 +1,7 @@
 ### Hi there, I'm okihaito! - 👋 
 
-[![Website](https://img.shields.io/badge/My%20website-1.1k-red?style=for-the-badge&logo=internetexplorer&url=https%3A%2F%2Fhttps://mmhz.blog.fc2.com/)](https://mmhz.blog.fc2.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-49-white?style=for-the-badge&logo=twitter)](https://twitter.com/mhzmugen)
+[![Website](https://img.shields.io/badge/My%20website-1.4k-red?style=for-the-badge&logo=internetexplorer&url=https%3A%2F%2Fhttps://mmhz.blog.fc2.com/)](https://mmhz.blog.fc2.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-57-white?style=for-the-badge&logo=twitter)](https://twitter.com/mhzmugen)
 
 ## I'm just a person who gets bored easily....
 
@@ -23,7 +23,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="left" alt="Java" width="26px" src="https://mpng.subpng.com/20180404/ebw/kisspng-java-programming-computer-programming-programming-coffee-jar-5ac598db779939.2171835915228991634899.jpg" />
+<img align="left" alt="Java" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.wikipedia.org%2Fwiki%2FFile%3AJava_Logo.svg&psig=AOvVaw0hI56NGE297FTWHprdLNFr&ust=1644834684505000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDGkuu8_PUCFQAAAAAdAAAAABAD" />
 <img align="left" alt="ini" width="26px" src="https://images.sftcdn.net/images/t_app-logo-xl,f_auto/p/0410efb0-96d1-11e6-a6c7-00163ec9f5fa/3975867179/mugen-Mugen.png" />
 
 <br />
