@@ -1,7 +1,7 @@
 ### Hi there, I'm okihaito! - 👋 
 
-[![Website](https://img.shields.io/badge/My%20website-1.5k-red?style=for-the-badge&logo=internetexplorer&url=https%3A%2F%2Fhttps://mmhz.blog.fc2.com/)](https://mmhz.blog.fc2.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-57-white?style=for-the-badge&logo=twitter)](https://twitter.com/mhzmugen)
+[![Website](https://img.shields.io/badge/My%20website-1.6k-red?style=for-the-badge&logo=internetexplorer&url=https%3A%2F%2Fhttps://mmhz.blog.fc2.com/)](https://mmhz.blog.fc2.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-58-white?style=for-the-badge&logo=twitter)](https://twitter.com/mhzmugen)
 
 ## I'm just a person who gets bored easily....
 
