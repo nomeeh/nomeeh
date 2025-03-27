@@ -27,8 +27,6 @@
 <br>
 <br>
 
----
-
 ## ⚡ GitHub Stats:
 
 <p align="center">
