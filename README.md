@@ -10,9 +10,9 @@
 
 ### My socials:
 
-[website]: https://nayuki.neocities.org/
-[twitter]: https://twitter.com/nomimugen
-[youtube]: https://www.youtube.com/@0xNomi
+website: https://nayuki.neocities.org/
+twitter: https://twitter.com/nomimugen
+youtube: https://www.youtube.com/@0xNomi
 
 <br>
 
