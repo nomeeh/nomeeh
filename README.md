@@ -11,7 +11,7 @@
 ### My socials:
 
 website: https://nayuki.neocities.org/
-twitter: https://twitter.com/nomimugen
+<img align="left" width="25px" src="https://github.com/user-attachments/assets/36ab84b4-f9a1-4b2c-ae49-d00a9ac40443"></img><p>: </p> https://twitter.com/nomimugen
 youtube: https://www.youtube.com/@0xNomi
 
 <br>
