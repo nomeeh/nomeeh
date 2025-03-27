@@ -10,9 +10,9 @@
 
 ### My socials:
 
-<img align="left" width="25px" src="https://icons.veryicon.com/png/o/miscellaneous/base-icon-library-1/internet-54.png"></img><p>: </p> https://nayuki.neocities.org/
-<img align="left" width="25px" src="https://github.com/user-attachments/assets/36ab84b4-f9a1-4b2c-ae49-d00a9ac40443"></img><p>: </p> https://twitter.com/nomimugen
-<img align="left" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"></img><p>: </p> https://www.youtube.com/@0xNomi
+<img align="left" width="25px" src="https://icons.veryicon.com/png/o/miscellaneous/base-icon-library-1/internet-54.png"><p>: </p> https://nayuki.neocities.org/
+<img align="left" width="25px" src="https://github.com/user-attachments/assets/36ab84b4-f9a1-4b2c-ae49-d00a9ac40443"><p>: </p> https://twitter.com/nomimugen
+<img align="left" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"><p>: </p> https://www.youtube.com/@0xNomi
 
 <br>
 
