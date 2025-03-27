@@ -22,11 +22,11 @@
 <img align="left" alt="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 <img align="left" alt="Java" width="40px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="SDL2" width="40px" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/SDL_logo.svg/1200px-SDL_logo.svg.png" />
 
 <br>
 <br>
-
+<br>
+  
 ## ⚡ GitHub Stats:
 
 <p align="center">
